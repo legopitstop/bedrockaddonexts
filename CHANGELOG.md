@@ -4,6 +4,6 @@ All notable changes to the "bedrockaddonexts" extension pack will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [1.0.0] - unreleased
+## [1.0.0] - 9/1/2025
 
 - Initial release

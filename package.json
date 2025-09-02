@@ -3,6 +3,15 @@
   "displayName": "Bedrock Add-On Extension Pack",
   "description": "VSCode extension pack for Minecraft Bedrock Add-On Development.",
   "version": "0.0.1",
+  "publisher": "Legopitstop",
+  "license": "MIT",
+  "sponsor": {
+    "url": "https://github.com/sponsors/legopitstop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/legopitstop/bedrockaddonexts"
+  },
   "engines": {
     "vscode": "^1.103.0"
   },
