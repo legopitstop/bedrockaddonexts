@@ -1,0 +1,24 @@
+{
+  "name": "bedrockaddonexts",
+  "displayName": "Bedrock Add-On Extension Pack",
+  "description": "VSCode extension pack for Minecraft Bedrock Add-On Development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "destruc7i0n.vscode-bedrock-definitions",
+    "netcorext.uuid-generator",
+    "BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension",
+    "SuperAnt.mc-dp-icons",
+    "mojang-studios.minecraft-debugger",
+    "zz5840.minecraft-lang-colorizer",
+    "josee9988.minifyall",
+    "christian-kohler.npm-intellisense",
+    "JannisX11.snowstorm",
+    "dbaeumer.vscode-eslint"
+  ]
+}
